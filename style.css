@@ -1,6 +1,11 @@
 .imgcampo{
 
-    width: 600px;
-
+    width: 235px !important;
+    height: 200PX !important;
 }
 
+.Gado{
+     display: grid ;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    
+}
